@@ -1,0 +1,1 @@
+import{i as e}from"./_plugin-vue_export-helper-S2sxDYGZ.js";function t(){return e.get(`/client/profile`)}function n(t){return e.post(`/client/profile/url`,t)}export{n,t};
